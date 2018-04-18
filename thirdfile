@@ -1,0 +1,5 @@
+git pull origin next:master
+=
+git pull origin
+git merge origin/next master
+git rebase origin/next master
